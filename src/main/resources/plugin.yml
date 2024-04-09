@@ -1,0 +1,8 @@
+name: VotePlus
+version: '${project.version}'
+main: me.sfclog.voteplus.Main
+api-version: 1.19
+authors: [ SFC_Log ]
+depend: [PlaceholderAPI]
+commands:
+  vote:
